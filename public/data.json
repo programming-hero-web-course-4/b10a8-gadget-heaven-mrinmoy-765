@@ -1,0 +1,326 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "iPhone 15 Pro",
+      "product_image": "https://www.sotophone.com/wp-content/uploads/2023/09/apple-iphone-15-pro-max-1.jpg",
+      "category": "iPhone",
+      "price": 1099,
+      "description": "The latest iPhone with A17 Bionic chip and Dynamic Island.",
+      "Specification": [
+        "6.1-inch Super Retina XDR display",
+        "A17 Pro chip",
+        "48MP main camera",
+        "iOS 17"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "2",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://images-cdn.ubuy.co.id/660c02105bc7a6552c68748d-samsung-galaxy-s23-ultra-5g-sm-s918b-ds.jpg",
+      "category": "Phones",
+      "price": 1199,
+      "description": "A flagship smartphone with a 200MP camera and S Pen support.",
+      "Specification": [
+        "6.8-inch Dynamic AMOLED 2X display",
+        "Snapdragon 8 Gen 2",
+        "200MP main camera",
+        "Android 13"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "3",
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-8-Pro-Obsidian-7046.jpg",
+      "category": "Phones",
+      "price": 999,
+      "description": "Google's best AI-powered smartphone with Tensor G3 chip.",
+      "Specification": [
+        "6.7-inch LTPO OLED display",
+        "Tensor G3 processor",
+        "50MP main camera",
+        "Android 14"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "4",
+      "product_title": "OnePlus 11 5G",
+      "product_image": "https://image01.oneplus.net/ebp/202301/11/1-M00-42-E5-CkvTlmO-dPWANpKzAAJoBrhAYus595.png",
+      "category": "Phones",
+      "price": 799,
+      "description": "A high-performance smartphone with Hasselblad-tuned cameras.",
+      "Specification": [
+        "6.7-inch Fluid AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "50MP main camera",
+        "OxygenOS 13"
+      ],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "product_id": "5",
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://cdn.prod.website-files.com/64ff10d1e6f88be0d9bd0890/66268a7e3312a8963152b671_xiaomi_13_pro.webp",
+      "category": "Phones",
+      "price": 899,
+      "description": "A powerful smartphone with Leica-powered cameras.",
+      "Specification": [
+        "6.73-inch AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "50MP main camera",
+        "MIUI 14"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "6",
+      "product_title": "Sony Xperia 1 V",
+      "product_image": "https://swpno.com/wp-content/uploads/2024/01/sony-xperia-1-v-price-in-bangladesh-2.webp",
+      "category": "Phones",
+      "price": 1199,
+      "description": "A phone with a 4K OLED display and professional-grade cameras.",
+      "Specification": [
+        "6.5-inch 4K OLED display",
+        "Snapdragon 8 Gen 2",
+        "48MP triple camera",
+        "Android 13"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "7",
+      "product_title": "Canon EOS R5",
+      "product_image": "https://i1.adis.ws/i/canon/eos-r5_martin_bissig_lifestyle_05_c629aad3c2154f34b3d7d7ba5a509196?$70-30-header-4by3-dt-jpg$",
+      "category": "Camera",
+      "price": 3499,
+      "description": "A professional mirrorless camera with 8K video recording.",
+      "Specification": [
+        "45MP full-frame sensor",
+        "8K video recording",
+        "Dual Pixel autofocus",
+        "ISO 100-51200"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "8",
+      "product_title": "Sony A7 IV",
+      "product_image": "https://5.imimg.com/data5/SELLER/Default/2023/6/314492522/UJ/WT/EB/33595861/viewsonic-full-hd-webcam-vb-cam-002-for-meeting-250x250.jpg",
+      "category": "Camera",
+      "price": 2499,
+      "description": "A hybrid full-frame camera for both photography and videography.",
+      "Specification": [
+        "33MP full-frame sensor",
+        "4K 60fps video recording",
+        "Real-time Eye AF",
+        "ISO 100-51200"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "9",
+      "product_title": "iPad Pro M2",
+      "product_image": "https://assets.gadgetandgear.com/upload/product/20221119_1668832521_693380.jpeg",
+      "category": "Tablet",
+      "price": 1099,
+      "description": "A powerful tablet with the M2 chip and Liquid Retina XDR display.",
+      "Specification": [
+        "12.9-inch Liquid Retina XDR display",
+        "Apple M2 chip",
+        "Face ID",
+        "iPadOS 16"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "10",
+      "product_title": "Samsung Galaxy Tab S9 Ultra",
+      "product_image": "https://www.climaxcomputer.com/wp-content/uploads/2023/12/img-5825-2-400x225.jpg",
+      "category": "Tablet",
+      "price": 1199,
+      "description": "A high-end Android tablet with an S Pen and 120Hz AMOLED display.",
+      "Specification": [
+        "14.6-inch Super AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "S Pen included",
+        "Android 13"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+
+    {
+          "product_id": "11",
+          "product_title": "iPhone 16 Pro",
+          "product_image": "https://www.istudio.store/cdn/shop/files/iPhone_16_Pro_White_Titanium_TH_1_1ac3f824-7153-43b1-8211-a2f67cdd5e68.jpg?v=1725929670&width=176",
+          "category": "iPhone",
+          "price": 1099,
+          "description": "The latest iPhone with A17 Bionic chip and Dynamic Island.",
+          "Specification": [
+            "6.1-inch Super Retina XDR display",
+            "A17 Pro chip",
+            "48MP main camera",
+            "iOS 17"
+          ],
+          "availability": true,
+          "rating": 4.8
+        },
+        {
+          "product_id": "12",
+          "product_title": "Samsung Galaxy S22",
+          "product_image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2202/gallery/levant-galaxy-s22-ultra-s908-413037-sm-s908ezggmea-530970243",
+          "category": "Phones",
+          "price": 1199,
+          "description": "A flagship smartphone with a 200MP camera and S Pen support.",
+          "Specification": [
+            "6.8-inch Dynamic AMOLED 2X display",
+            "Snapdragon 8 Gen 2",
+            "200MP main camera",
+            "Android 13"
+          ],
+          "availability": true,
+          "rating": 4.7
+        },
+        {
+          "product_id": "13",
+          "product_title": "Google Pixel 7 Pro",
+          "product_image": "https://images-cdn.ubuy.co.in/651546e3124186167265e27b-google-pixel-7-pro-5g-android-phone.jpg",
+          "category": "Phones",
+          "price": 999,
+          "description": "Google's best AI-powered smartphone with Tensor G3 chip.",
+          "Specification": [
+            "6.7-inch LTPO OLED display",
+            "Tensor G3 processor",
+            "50MP main camera",
+            "Android 14"
+          ],
+          "availability": true,
+          "rating": 4.2
+        },
+        {
+          "product_id": "14",
+          "product_title": "Canon EOS R5",
+          "product_image": "https://www.gigaparts.com/media/catalog/product/cache/002dc70ccef261c78c46589b619436fc/1/_/1_700x_1_.png",
+          "category": "Camera",
+          "price": 3499,
+          "description": "A professional mirrorless camera with 8K video recording.",
+          "Specification": [
+            "45MP full-frame sensor",
+            "8K video recording",
+            "Dual Pixel autofocus",
+            "ISO 100-51200"
+          ],
+          "availability": true,
+          "rating": 4.9
+        },
+        {
+          "product_id": "15",
+          "product_title": "iPad Pro M2",
+          "product_image": "https://mcsolution.com.bd/wp-content/uploads/2022/11/ipad-pro-m2-2022-11-inch-silver-price-in-bangladesh-MC-Solution-BD.webp",
+          "category": "Tablet",
+          "price": 1099,
+          "description": "A powerful tablet with the M2 chip and Liquid Retina XDR display.",
+          "Specification": [
+            "12.9-inch Liquid Retina XDR display",
+            "Apple M2 chip",
+            "Face ID",
+            "iPadOS 16"
+          ],
+          "availability": true,
+          "rating": 4.9
+        },
+        {
+          "product_id": "16",
+          "product_title": "MacBook Pro 16-inch M2 Max",
+          "product_image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/macbook-pro-m2-max-xda-review-202300158.jpg",
+          "category": "MacBook",
+          "price": 3499,
+          "description": "Apple's most powerful MacBook with the M2 Max chip.",
+          "Specification": [
+            "16-inch Liquid Retina XDR display",
+            "Apple M2 Max chip",
+            "32GB RAM, 1TB SSD",
+            "macOS Ventura"
+          ],
+          "availability": true,
+          "rating": 3.8
+        },
+        {
+          "product_id": "17",
+          "product_title": "Dell XPS 15",
+          "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/XPS-15-9530-c-1421.jpg",
+          "category": "Laptops",
+          "price": 2299,
+          "description": "A high-end Windows Laptops with an OLED display.",
+          "Specification": [
+            "15.6-inch 3.5K OLED display",
+            "Intel Core i9-13900H",
+            "32GB RAM, 1TB SSD",
+            "Windows 11 Pro"
+          ],
+          "availability": true,
+          "rating": 2.7
+        },
+        {
+          "product_id": "18",
+          "product_title": "Apple Watch Series 9",
+          "product_image": "https://www.ryans.com/storage/products/main/apple-watch-series-9-41mm-gps-midnight-aluminum-11701515076.webp",
+          "category": "Smart Watches",
+          "price": 399,
+          "description": "The latest Apple Watch with new health features and an Always-On display.",
+          "Specification": [
+            "45mm Retina LTPO OLED display",
+            "Blood Oxygen & ECG app",
+            "watchOS 10",
+            "Water-resistant up to 50m"
+          ],
+          "availability": true,
+          "rating": 4.9
+        },
+        {
+          "product_id": "19",
+          "product_title": "Samsung Galaxy Watch 6",
+          "product_image": "https://images.samsung.com/ca/galaxy-watch6/feature/galaxy-watch6-kv-pc.jpg",
+          "category": "Smart Watches",
+          "price": 349,
+          "description": "A premium smartwatch with advanced health tracking and Wear OS.",
+          "Specification": [
+            "1.5-inch Super AMOLED display",
+            "BioActive Sensor (Heart Rate, SpO2)",
+            "Wear OS 4",
+            "5ATM + IP68 water resistance"
+          ],
+          "availability": true,
+          "rating": 4.8
+        },
+        {
+          "product_id": "20",
+          "product_title": "Garmin Fenix 7X",
+          "product_image": "https://res.garmin.com/en/products/010-02540-34/v/cf-sm.jpg",
+          "category": "Smart Watches",
+          "price": 899,
+          "description": "A rugged GPS smartwatch for extreme sports and outdoor activities.",
+          "Specification": [
+            "1.4-inch Power Sapphire display",
+            "Solar Charging",
+            "GPS & Multisport Modes",
+            "Water-resistant up to 100m"
+          ],
+          "availability": true,
+          "rating": 4.7
+        }
+      
+      
+  ]
+  
